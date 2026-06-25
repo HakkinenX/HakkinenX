@@ -108,6 +108,16 @@ Atualmente estou trabalhando em um sistema escolar com foco em:
 
 ---
 
+## Contribuições em movimento
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HakkinenX/HakkinenX/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HakkinenX/HakkinenX/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/HakkinenX/HakkinenX/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <p align="center">
   <strong>Construindo projetos melhores a cada versão.</strong>
 </p>
