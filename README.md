@@ -99,11 +99,20 @@ Atualmente estou trabalhando em um sistema escolar com foco em:
 
 ---
 
-## Estatísticas
+## Estatísticas e atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HakkinenX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkinenX&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HakkinenX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Hakkinen%20Wylgner%20%7C%20GitHub%20Stats" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=HakkinenX&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkinenX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HakkinenX&theme=tokyonight&utcOffset=-3" alt="Horário mais produtivo" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HakkinenX&theme=tokyonight" alt="Resumo de atividade do perfil" />
 </p>
 
 ---
