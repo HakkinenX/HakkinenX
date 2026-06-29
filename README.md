@@ -73,18 +73,6 @@ Atualmente estou trabalhando em um sistema escolar com foco em:
 
 ---
 
-## Projetos em destaque
-
-| Projeto | Tecnologias | Descrição |
-| --- | --- | --- |
-| [Colegio-Militar](https://github.com/HakkinenX/Colegio-Militar) | Kotlin | Projeto Android relacionado ao contexto escolar. |
-| [Primeiro-JetPack-Compose](https://github.com/HakkinenX/Primeiro-JetPack-Compose) | Kotlin, Jetpack Compose | Primeira aplicação com Jetpack Compose usando Kotlin. |
-| [EstudoJavaPessoal](https://github.com/HakkinenX/EstudoJavaPessoal) | Java | Estudos e exercícios em Java. |
-| [Colegio_Militar_api28](https://github.com/HakkinenX/Colegio_Militar_api28) | Java | Experimentos Android/Java para app escolar. |
-| [Bot-Discord-feito-em-Java](https://github.com/HakkinenX/Bot-Discord-feito-em-Java) | Java | Bot para Discord criado em Java. |
-
----
-
 ## Práticas que venho aplicando
 
 - Separação entre frontend, backend e banco de dados.
@@ -96,36 +84,6 @@ Atualmente estou trabalhando em um sistema escolar com foco em:
 - Logs estruturados e métricas para produção.
 - Testes unitários e end-to-end.
 - Deploy com ambientes separados de desenvolvimento, staging e produção.
-
----
-
-## Estatísticas e atividade
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HakkinenX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Hakkinen%20Wylgner%20%7C%20GitHub%20Stats" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=HakkinenX&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkinenX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HakkinenX&theme=tokyonight&utcOffset=-3" alt="Horário mais produtivo" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HakkinenX&theme=tokyonight" alt="Resumo de atividade do perfil" />
-</p>
-
----
-
-## Contribuições em movimento
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HakkinenX/HakkinenX/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HakkinenX/HakkinenX/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/HakkinenX/HakkinenX/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 <p align="center">
   <strong>Construindo projetos melhores a cada versão.</strong>
